@@ -1,0 +1,5 @@
+classes = 3
+train = C:\Users\hoang\Downloads\DrivingWheel\dataset/train.txt
+valid = C:\Users\hoang\Downloads\DrivingWheel\dataset/test.txt
+names = C:\Users\hoang\Downloads\DrivingWheel\dataset/classes.names
+backup = backup
